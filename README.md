@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning C++<br>🎯 Goals: have fun 📌 Location: Spain</p>
+<p align="left">📚 I'm currently learning C++<br>🎯 Goals: have fun<br>📌 Location: Spain</p>
 
 ###
 
